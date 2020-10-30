@@ -1,0 +1,13 @@
+C:\Users\MZ\Desktop\Desktop-Client-Serveur\ADO-Code-Practice\SerializingDataSet\bin\Debug\SerializingDataSet.exe.config
+C:\Users\MZ\Desktop\Desktop-Client-Serveur\ADO-Code-Practice\SerializingDataSet\bin\Debug\SerializingDataSet.exe
+C:\Users\MZ\Desktop\Desktop-Client-Serveur\ADO-Code-Practice\SerializingDataSet\bin\Debug\SerializingDataSet.pdb
+C:\Users\MZ\Desktop\Desktop-Client-Serveur\ADO-Code-Practice\SerializingDataSet\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MZ\Desktop\Desktop-Client-Serveur\ADO-Code-Practice\SerializingDataSet\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MZ\Desktop\Desktop-Client-Serveur\ADO-Code-Practice\SerializingDataSet\obj\Debug\SerializingDataSet.csprojAssemblyReference.cache
+C:\Users\MZ\Desktop\Desktop-Client-Serveur\ADO-Code-Practice\SerializingDataSet\obj\Debug\SerializingDataSet.Form1.resources
+C:\Users\MZ\Desktop\Desktop-Client-Serveur\ADO-Code-Practice\SerializingDataSet\obj\Debug\SerializingDataSet.Properties.Resources.resources
+C:\Users\MZ\Desktop\Desktop-Client-Serveur\ADO-Code-Practice\SerializingDataSet\obj\Debug\SerializingDataSet.csproj.GenerateResource.cache
+C:\Users\MZ\Desktop\Desktop-Client-Serveur\ADO-Code-Practice\SerializingDataSet\obj\Debug\SerializingDataSet.csproj.CoreCompileInputs.cache
+C:\Users\MZ\Desktop\Desktop-Client-Serveur\ADO-Code-Practice\SerializingDataSet\obj\Debug\SerializingDataSet.csproj.CopyComplete
+C:\Users\MZ\Desktop\Desktop-Client-Serveur\ADO-Code-Practice\SerializingDataSet\obj\Debug\SerializingDataSet.exe
+C:\Users\MZ\Desktop\Desktop-Client-Serveur\ADO-Code-Practice\SerializingDataSet\obj\Debug\SerializingDataSet.pdb

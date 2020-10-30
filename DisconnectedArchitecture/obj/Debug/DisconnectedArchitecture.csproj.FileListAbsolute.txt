@@ -1,0 +1,10 @@
+C:\Users\MZ\Desktop\Desktop-Client-Serveur\ADO-Code-Practice\DisconnectedArchitecture\bin\Debug\DisconnectedArchitecture.exe.config
+C:\Users\MZ\Desktop\Desktop-Client-Serveur\ADO-Code-Practice\DisconnectedArchitecture\bin\Debug\DisconnectedArchitecture.exe
+C:\Users\MZ\Desktop\Desktop-Client-Serveur\ADO-Code-Practice\DisconnectedArchitecture\bin\Debug\DisconnectedArchitecture.pdb
+C:\Users\MZ\Desktop\Desktop-Client-Serveur\ADO-Code-Practice\DisconnectedArchitecture\obj\Debug\DisconnectedArchitecture.csprojAssemblyReference.cache
+C:\Users\MZ\Desktop\Desktop-Client-Serveur\ADO-Code-Practice\DisconnectedArchitecture\obj\Debug\DisconnectedArchitecture.Form1.resources
+C:\Users\MZ\Desktop\Desktop-Client-Serveur\ADO-Code-Practice\DisconnectedArchitecture\obj\Debug\DisconnectedArchitecture.Properties.Resources.resources
+C:\Users\MZ\Desktop\Desktop-Client-Serveur\ADO-Code-Practice\DisconnectedArchitecture\obj\Debug\DisconnectedArchitecture.csproj.GenerateResource.cache
+C:\Users\MZ\Desktop\Desktop-Client-Serveur\ADO-Code-Practice\DisconnectedArchitecture\obj\Debug\DisconnectedArchitecture.csproj.CoreCompileInputs.cache
+C:\Users\MZ\Desktop\Desktop-Client-Serveur\ADO-Code-Practice\DisconnectedArchitecture\obj\Debug\DisconnectedArchitecture.exe
+C:\Users\MZ\Desktop\Desktop-Client-Serveur\ADO-Code-Practice\DisconnectedArchitecture\obj\Debug\DisconnectedArchitecture.pdb

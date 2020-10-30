@@ -1,0 +1,10 @@
+C:\Users\MZ\Desktop\Desktop-Client-Serveur\ADO-Code-Practice\UnderstandingDataSet\bin\Debug\UnderstandingDataSet.exe.config
+C:\Users\MZ\Desktop\Desktop-Client-Serveur\ADO-Code-Practice\UnderstandingDataSet\bin\Debug\UnderstandingDataSet.exe
+C:\Users\MZ\Desktop\Desktop-Client-Serveur\ADO-Code-Practice\UnderstandingDataSet\bin\Debug\UnderstandingDataSet.pdb
+C:\Users\MZ\Desktop\Desktop-Client-Serveur\ADO-Code-Practice\UnderstandingDataSet\obj\Debug\UnderstandingDataSet.csprojAssemblyReference.cache
+C:\Users\MZ\Desktop\Desktop-Client-Serveur\ADO-Code-Practice\UnderstandingDataSet\obj\Debug\UnderstandingDataSet.Form1.resources
+C:\Users\MZ\Desktop\Desktop-Client-Serveur\ADO-Code-Practice\UnderstandingDataSet\obj\Debug\UnderstandingDataSet.Properties.Resources.resources
+C:\Users\MZ\Desktop\Desktop-Client-Serveur\ADO-Code-Practice\UnderstandingDataSet\obj\Debug\UnderstandingDataSet.csproj.GenerateResource.cache
+C:\Users\MZ\Desktop\Desktop-Client-Serveur\ADO-Code-Practice\UnderstandingDataSet\obj\Debug\UnderstandingDataSet.csproj.CoreCompileInputs.cache
+C:\Users\MZ\Desktop\Desktop-Client-Serveur\ADO-Code-Practice\UnderstandingDataSet\obj\Debug\UnderstandingDataSet.exe
+C:\Users\MZ\Desktop\Desktop-Client-Serveur\ADO-Code-Practice\UnderstandingDataSet\obj\Debug\UnderstandingDataSet.pdb

@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Employee>
+    <EmpID>1</EmpID>
+    <EmpName>Mazzouz Chaimae</EmpName>
+    <DepId>10</DepId>
+  </Employee>
+  <Employee>
+    <EmpID>2</EmpID>
+    <EmpName>Mazzouz Hamood</EmpName>
+    <DepId>16</DepId>
+  </Employee>
+  <Employee>
+    <EmpID>3</EmpID>
+    <EmpName>Boutissante Issam</EmpName>
+    <DepId>12</DepId>
+  </Employee>
+</DocumentElement>
